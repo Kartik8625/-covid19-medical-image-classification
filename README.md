@@ -156,6 +156,15 @@ You can:
 4. Download and place the dataset in the expected directory structure
 5. Run all cells sequentially
 
+## ▶️ Run on Google Colab
+
+You can run this project directly on Google Colab without any local setup.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Kartik8625/-covid19-medical-image-classification/blob/main/healthcare_ml_classification.ipynb
+)
+
+
 ---
 
 ## 🧾 Conclusion
